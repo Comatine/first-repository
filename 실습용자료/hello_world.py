@@ -6,4 +6,7 @@ if __name__ == '__main__':
 
 else:
 	print("DF")
+
+print("I aplogize")
+print("죄송합니다")
     
